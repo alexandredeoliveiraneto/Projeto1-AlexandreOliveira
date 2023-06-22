@@ -1,3 +1,4 @@
+#programa que calcula o preço do aluguel de um carro por km percorrido e por dias alugados
 km = float(input('qual a quantidade de km percorrido?: km'))
 dias = int(input('por quantos dias o carro foi alugado?:'))
 preçokm = 0.15 * km
